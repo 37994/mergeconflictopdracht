@@ -23,10 +23,9 @@ function randomHaiku()
 
 function start()
 {
-    console.log("starting main")
+    console.log("staring main")
     
-    console.log(randomHaiku())
-
+   console.log("gjerabgkjlabr")
 }
 
 start()
