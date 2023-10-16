@@ -23,10 +23,9 @@ function randomHaiku()
 
 function start()
 {
-    console.log("lmao keep yourselfedatgfe main")
+    console.log("main")
     
-    
-    console.log(ietss)
+    console.log(randomHaiku())
 
 }
 
